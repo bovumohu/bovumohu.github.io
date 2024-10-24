@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://bovumohu.github.io/sitemap/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/hHo/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/uBp/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/YLs/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/lKa/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/LoG/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/xjB/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/JfY/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/xMV/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/vKW/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/xjZ/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/kQv/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/BVw/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/AtR/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/MTk/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/ASi/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/DnJ/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/MyP/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/GrT/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/mqD/sitemap_index.bovumohu
+Sitemap: https://bovumohu.github.io/iYg/sitemap_index.bovumohu
